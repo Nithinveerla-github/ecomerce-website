@@ -1,0 +1,835 @@
+{ "products":[
+        {
+            "id": 1,
+               "title": "Modern Futon Sofa",
+            "price": "35500Rs",
+            "category": "Sofas",
+
+            "description": "This sleek futon sofa blends modern design with functionality. Its compact structure makes it ideal for smaller spaces. Perfect for adding style without sacrificing comfort.",
+            "image": "https://m.media-amazon.com/images/I/71Qr9QDVDvL._SY450_.jpg"
+        },
+        {
+            "id": 2,
+            "title": "Convertible Futon Sofa",
+            "price": "29990Rs",
+            "category": "Sofas",
+
+            "description": "A versatile futon that effortlessly transforms from a comfortable sofa to a cozy bed. Designed for easy use and flexibility. A great solution for homes with limited space.",
+            "image": "https://assets.wfcdn.com/im/87821123/resize-h700-w700%5Ecompr-r85/2897/289744592/Serta+Sabrina+73%22+Queen+Rolled+Arm+Tufted+Back+Convertible+Sleeper+Sofa+with+Cushions.jpg"
+        },
+        {
+            "id": 3,
+            "title": "Mid-Century Futon Sofa",
+            "price": "39550Rs",
+            "category": "Sofas",
+
+            "description": "Inspired by mid-century design, this futon features elegant wooden legs and tufted cushions. Adds a touch of retro charm to your living room. A functional yet stylish seating option.",
+            "image": "https://m.media-amazon.com/images/I/619-s88KvyL._SY450_.jpg"
+        },
+        {
+            "id": 4,
+            "title": "Compact Futon Sofa",
+            "price": "24590Rs",
+            "category": "Sofas",
+
+            "description": "This futon sofa is perfect for small apartments or studio spaces. It provides comfortable seating and can easily convert into a bed. A great option for maximizing space and functionality.",
+            "image": "https://m.media-amazon.com/images/I/61Kd3u2VZ9L._SY450_.jpg"
+        },
+        {
+            "id": 5,
+            "title": "Soft Fabric Futon Sofa",
+            "price": "2955Rs",
+            "category": "Sofas",
+
+            "description": "Soft fabric cushions offer a comfortable and cozy place to relax. The futon can quickly convert into a bed for guests or lounging. A simple yet stylish addition to your living room.",
+            "image": "https://m.media-amazon.com/images/I/51e0Afiv6qL._SY450_.jpg"
+        },
+        {
+            "id": 6,
+            "title": "Plush Futon Sofa",
+            "price": "3359Rs",
+            "category": "Sofas",
+
+            "description": "This futon sofa offers plush cushioning for optimal comfort. Its sleek and modern design fits perfectly in contemporary homes. Easily converts into a bed, making it ideal for small spaces.",
+            "image": "https://m.media-amazon.com/images/I/91XSsniGpfL._SY450_.jpg"
+        },
+        {
+            "id": 7,
+            "title": "Elegant Futon Sofa",
+            "price": "2279Rs",
+            "category": "Sofas",
+
+            "description": "An elegant futon with luxurious upholstery that brings sophistication to any room. Features both a comfy sofa for seating and a bed for overnight guests. A perfect blend of style and functionality.",
+            "image": "https://m.media-amazon.com/images/I/61RScyWwCqL._SY450_.jpg"
+        },
+        {
+            "id": 8,
+            "title": "Chic Futon Sofa",
+            "price": "3859Rs",
+            "category": "Sofas",
+
+            "description": "With a chic and stylish design, this futon sofa adds an elegant touch to your living space. The comfortable cushions and easy conversion into a bed make it perfect for modern homes.",
+            "image": "https://m.media-amazon.com/images/I/61Xit7txCbL._SY450_.jpg"
+        },
+        {
+            "id": 9,
+            "title": "Modern Viscose Reclining Sofa",
+            "price": "14590Rs",
+            "category": "Sofas",
+            "description": "A stylish and comfortable recliner designed for modern living rooms. Durable upholstery ensures longevity and a smooth recline mechanism adds convenience. Perfect for creating a relaxing and contemporary space.",
+            "image": "https://m.media-amazon.com/images/I/71lUGJWyJRL._AC_.jpg"
+        },
+        {
+            "id": 10,
+            "title": "Premium Fabric Reclining Sofa",
+            "price": "19990Rs",
+            "category": "Sofas",
+            "description": "Elegant and luxurious, this sofa features a premium fabric finish. Designed for superior comfort and style, it fits seamlessly into any upscale setting. A perfect addition to elevate your living room decor.",
+            "image": "https://image.made-in-china.com/2f0j00jtOcQRgyCrVm/Factory-Directly-Hot-Tufted-Sectional-Couch-Electric-Reclining-Theater-Leather-Theatre-Sofa.jpg"
+        },
+        {
+            "id": 11,
+            "title": "Compact Ergonomic Recliner",
+            "price": "19550Rs",
+            "category": "Sofas",
+            "description": "A compact recliner crafted for small spaces without compromising comfort. Its ergonomic design offers excellent lumbar support and relaxation. Ideal for apartments and cozy living rooms.",
+            "image": "https://m.media-amazon.com/images/I/61zoEIhmQLL._SY450_.jpg"
+        },
+        {
+            "id": 12,
+            "title": "Sleek Modern Reclining Sofa",
+            "price": "14590Rs",
+            "category": "Sofas",
+            "description": "This sleek recliner blends modern aesthetics with plush comfort. Upholstered in soft fabric, it ensures a relaxing experience every time. A great choice for stylish and functional living spaces.",
+            "image": "https://classiccarolinahome.com/cdn/shop/files/Screenshot2023-06-16at1.10.44PM_2048x.png?v=1686935492"
+        },
+        {
+            "id": 13,
+            "title": "Versatile Adjustable Recliner",
+            "price": "19550Rs",
+            "category": "Sofas",
+            "description": "A versatile recliner equipped with adjustable headrests for personalized comfort. Made with durable materials, it’s designed to last for years. Perfect for both casual and formal living areas.",
+            "image": "https://damroimages.blob.core.windows.net/damroimages/9205-1.jpg"
+        },
+        {
+            "id": 14,
+            "title": "Minimalist Contemporary Recliner",
+            "price": "13590Rs",
+            "category": "Sofas",
+            "description": "A minimalist design featuring clean lines and soft cushioning. This recliner adds a modern touch while prioritizing comfort. An excellent addition to any contemporary space.",
+            "image": "https://m.media-amazon.com/images/I/81AC8cbU+kL._AC_UF894,1000_QL80_.jpg"
+        },
+        {
+            "id": 15,
+            "title": "Traditional Ornate Recliner",
+            "price": "12790Rs",
+            "category": "Sofas",
+            "description": "A traditional-style recliner with intricate detailing for classic interiors. Its sturdy frame ensures durability and support. A timeless piece that adds charm and elegance to your space.",
+            "image": "https://m.media-amazon.com/images/I/61bnKBFoNQL._SY450_.jpg"
+        },
+        {
+            "id": 16,
+            "title": "Luxury Power Reclining Sofa",
+            "price": "18590Rs",
+            "category": "Sofas",
+            "description": "Luxuriously designed with power reclining and USB charging ports. Ideal for tech-savvy users who value style and functionality. Upgrade your living room with this modern marvel.",
+            "image": "https://m.media-amazon.com/images/I/51-K1SvEB7L._SY450_.jpg"
+        },
+        {
+            "id": 17,
+            "title": "Wicker Outdoor Sofa",
+            "price": "18900Rs",
+            "category": "sofas",
+            "description": "Made from synthetic or natural wicker, these sofas are durable, lightweight, and weather-resistant. They often feature a classic, cozy design with plush cushions, making them great for patios and gardens.",
+            "image": "https://m.media-amazon.com/images/I/91bFv2PN41L._SY450_.jpg"
+        },
+        {
+            "id": 18,
+            "title": "Aluminum Outdoor Sofa",
+            "price": "24900Rs",
+            "category": "Sofas",
+            "description": "Lightweight and rust-resistant, aluminum sofas offer a sleek and modern design. They require minimal maintenance and are perfect for areas with high humidity or coastal environments.",
+            "image": "https://m.media-amazon.com/images/I/612zBREP0tL._SY450_.jpg"
+        },
+        {
+            "id": 19,
+            "title": "Teak Outdoor Sofa",
+            "price": "34900Rs",
+            "category": "Sofas",
+            "description": "Teak is a high-quality, durable wood that naturally resists weathering and insects. These sofas provide a luxurious and timeless look for outdoor spaces, developing a silver-gray patina over time.",
+            "image": "https://m.media-amazon.com/images/I/71-kz9nt2zL._SX450_.jpg"
+        },
+        {
+            "id": 20,
+            "title": "Modular Outdoor Sofa",
+            "price": "29900Rs",
+            "category": "Sofas",
+            "description": "Modular sofas consist of individual pieces that can be rearranged into various configurations. Perfect for large patios or for accommodating many guests, these sofas are versatile and adaptable.",
+            "image": "https://img.interiorcompany.com/interior/webproduct/260638722435855279390.png?aio=w-384;"
+        },
+        {
+            "id": 21,
+            "title": "Rattan Outdoor Sofa",
+            "price": "15900Rs",
+            "category": "Sofas",
+            "description": "Made from woven rattan, these sofas are lightweight and offer a relaxed, natural look. They are ideal for casual settings like gardens or balconies and are often paired with soft, removable cushions.",
+            "image": "https://m.media-amazon.com/images/I/8143+rQTN-L._SY450_.jpg"
+        },
+        {
+            "id": 22,
+            "title": "Sofa with Canopy",
+            "price": "21900Rs",
+            "category": "Sofas",
+            "description": "These sofas come with an attached canopy to provide shade and shelter from the sun. Perfect for creating a cozy, shaded nook, they are great for lounging on hot days while staying cool.",
+            "image": "https://m.media-amazon.com/images/I/61scumbPLnL._SY450_.jpg"
+        },
+        {
+            "id": 23,
+            "title": "Resin Outdoor Sofa",
+            "price": "17900Rs",
+            "category": "Sofas",
+            "description": "Constructed from weather-resistant resin, these sofas are incredibly durable and easy to clean. They often mimic the look of wicker but are more resistant to the elements, making them ideal for outdoor use.",
+            "image": "https://img.interiorcompany.com/interior/webproduct/856638718540750486747.png?aio=w-384;"
+        },
+        {
+            "id": 24,
+            "title": "Concrete Outdoor Sofa",
+            "price": "38900Rs",
+            "category": "Sofas",
+            "description": "Known for their modern, industrial look, concrete outdoor sofas are sturdy and long-lasting. They are often used in minimalist or contemporary designs and are perfect for urban or modern outdoor spaces.",
+            "image": "https://m.media-amazon.com/images/I/61kjBdOlmmL._SY450_.jpg"
+        },
+        {
+            "id": 25,
+            "title": "Traditional Chaise Lounge Sofa",
+            "price": "24590Rs",
+            "category": "Sofas",
+            "description": "Elegant and vintage with curved backs and rich upholstery, typically made of wood or tufted fabric. A timeless, luxurious piece. Perfect for classic interiors.",
+            "image": "https://m.media-amazon.com/images/I/51oqzRKRABL._SY450_.jpg"
+        },
+        {
+            "id": 26,
+            "title": "Modern Chaise Lounge Sofa",
+            "price": "56980Rs",
+            "category": "Sofas",
+            "description": "Sleek and minimalistic with clean lines and contemporary materials like metal or leather. It offers both comfort and sophistication. Great for modern settings.",
+            "image": "https://m.media-amazon.com/images/I/51ggmjY3G9S._SY450_.jpg"
+        },
+        {
+            "id": 27,
+            "title": "Reclining Chaise Lounge Sofa",
+            "price": "59690Rs",
+            "category": "Sofas",
+            "description": "Adjustable backrest for added comfort, allowing you to stretch out fully. Features often include armrests or footrests. Ideal for lounging or relaxing.",
+            "image": "https://img.interiorcompany.com/interior/webproduct/260638722435855279390.png?aio=w-384;"
+        },
+        {
+            "id": 28,
+            "title": "Sectional Chaise Lounge Sofa",
+            "price": "39890Rs",
+            "category": "Sofas",
+            "description": "Part of a sectional sofa, providing plenty of seating with a built-in chaise area. Flexible in arrangement and space-saving. Perfect for larger rooms.",
+            "image": "https://m.media-amazon.com/images/I/712pPNVdPpL._SL1500_.jpg"
+        },
+        {
+            "id": 29,
+            "title": "Outdoor Chaise Lounge Sofa",
+            "price": "29880Rs",
+            "category": "Sofas",
+            "description": "Weather-resistant materials such as wicker, metal, or plastic. Designed for relaxation in outdoor spaces like patios or gardens. Often features adjustable backs.",
+            "image": "https://m.media-amazon.com/images/I/61atq8feWXL._SL1000_.jpg"
+        },
+        {
+            "id": 30,
+            "title": "Convertible Chaise Lounge Sofa",
+            "price": "62980Rs",
+            "category": "Sofas",
+            "description": "Transforms into a bed, making it a space-efficient solution for guest rooms or small spaces. Multi-functional and practical. Ideal for homes with limited space.",
+            "image": "https://m.media-amazon.com/images/I/61v4vfYDSNL._SL1000_.jpg"
+        },
+        {
+            "id": 31,
+            "title": "Fainting Chaise Lounge Sofa",
+            "price": "49980Rs",
+            "category": "Sofas",
+            "description": "Features a graceful, curved shape with a plush surface. Typically used in vintage or antique settings. Adds elegance and charm to a room.",
+            "image": "https://img.interiorcompany.com/interior/webproduct/990638572645789232565.png?aio=w-384;"
+        },
+        {
+            "id": 32,
+            "title": "Armless Chaise Lounge Sofa",
+            "price": "37980Rs",
+            "category": "Sofas",
+            "description": "A minimalist design without armrests, offering more open space. Simple and chic. Ideal for modern or minimalist decor.",
+            "image": "https://m.media-amazon.com/images/I/61hi4+AJhUL._SL1000_.jpg"
+        },
+        {
+            "id": 33,
+            "title": "Bed",
+            "price": "219900Rs",
+            "category": "Beds",
+            "description": "Stylish Kurta Set: This Elegant Set features a Beautifully Printed Kurta with intricate Embroidery and a Complementing Dupatta.",
+            "image": "https://m.media-amazon.com/images/I/51UYfx2jNGL.jpg"
+        },
+        {
+            "id": 34,
+            "title": "Slatted Platform Bed",
+            "price": "159800Rs",
+            "category": "Beds",
+            "description": "Add a touch of elegance to your wardrobe with this Women's Lavender Viscose Silk set. The intricately embroidered straight kurta pairs beautifully with matching viscose silk pants.",
+            "image": "https://ik.imagekit.io/2xkwa8s1i/img/EW_CORRECTION/Bed_WEWB7872COSMO/Bed_WEWB7872COSMO_1.jpg?tr=w-3840"
+        },
+        {
+            "id": 35,
+            "title": "Storage Platform Bed",
+            "price": "99900Rs",
+            "category": "Beds",
+            "description": "Perfect for both casual outings and special occasions, this ensemble combines style and comfort effortlessly.",
+            "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQevJ1bvHGDhryVHbwQfXPUgY4-lHQ18ItRNyEBmk4x2CciThCXMf_KWWCzn3gv-5bUx_D68FmsNpBTFrJ4tSelHHm8Bhxzi9n9IhYVuxrC"
+        },
+        {
+            "id": 36,
+            "title": "Floating Platform Bed",
+            "price": "128900Rs",
+            "category": "Beds",
+            "description": "Versatile Design: The Floral Pattern and Classic Silhouette make this Kurta Set suitable for Various Occasions, from Casual Outings to Festive Events.",
+            "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSGzKwP_q0rvFW0_VjsViJLG0soV6N9dXzQcZfyjIrEAk50JMI11ooIbtmomXvRO6FLkMBbR7Ny4fnWExAz13i3-rWmIlahIgG3eSq761lr"
+        },
+        {
+            "id": 37,
+            "title": "Upholstered Platform Bed",
+            "price": "186900Rs",
+            "category": "Beds",
+            "description": "Perfect for both casual outings and special occasions, this ensemble combines style and comfort effortlessly.",
+            "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSrpAyGWbKrbOvLMlDl5JsUa7Q-Udtdystfsij2MD0EMYbne8Quv5XbnelK3dWHxW2DD1oOVzLkuL9IN1vH2PvokQxKca53R9bJSutDHbe1"
+        },
+        {
+            "id": 38,
+            "title": "Low-Profile Platform Bed",
+            "price": "89000Rs",
+            "category": "Beds",
+            "description": "Easy Care: This Kurta Set is Designed for Hassle-Free Maintenance, making it a practical choice for everyday wear.",
+            "image": "https://m.media-amazon.com/images/I/81N1QDYFvPL._SL1500_.jpg"
+        },
+        {
+            "id": 39,
+            "title": "Japanese-Style Platform Bed",
+            "price": "118900Rs",
+            "category": "Beds",
+            "description": "Perfect for both casual outings and special occasions, this ensemble combines style and comfort effortlessly.",
+            "image": "https://m.media-amazon.com/images/I/71cpfnIqUjL._SY450_.jpg"
+        },
+        {
+            "id": 40,
+            "title": "Metal Platform Bed",
+            "price": "138600Rs",
+            "category": "Beds",
+            "description": "Stylish Kurta Set: This Elegant Set features a Beautifully Printed Kurta with intricate Embroidery and a Complementing Dupatta.",
+            "image": "https://www.ulcdn.net/images/products/921381/product/Ritz_Hydraulic_Storage_Bed_-_Teak_Queen_Size_LP.jpg?1722319513"
+        },
+        {
+            "id": 41,
+            "title": "Canopy Platform Bed",
+            "price": "259600Rs",
+            "category": "Beds",
+            "description": "Wardrobe with this stunning georgette lehenga, featuring exquisite sequin and embroidery work that captures attention with its vibrant elegance.",
+            "image": "https://www.ulcdn.net/images/products/920495/product/FNCOMB11TK35733_LP.jpg?1722318962"
+        },
+        {
+            "id": 42,
+            "title": "Trundle Platform Bed",
+            "price": "199800Rs",
+            "category": "Beds",
+            "description": "Complete your look with the matching Georgette dupatta, enhancing the appeal of this ensemble. The classy color combination and attention to detail make it a statement piece.",
+            "image": "https://img.interiorcompany.com/interior/webproduct/522638724540918340699.png?aio=w-384;"
+        },
+        {
+            "id": 43,
+            "title": "Murphy Platform Bed",
+            "price": "185900Rs",
+            "category": "Beds",
+            "description": "Embroidered with Stone work; Blouse Work: Embroidered with Stone work; Dupatta Work: Embroidered with Stone work",
+            "image": "https://www.ulcdn.net/images/products/909836/product/FVBDST33BR32799_1.jpg?1720502936"
+        },
+        {
+            "id": 44,
+            "title": "Traditional Iron Beds",
+            "price": "29890Rs",
+            "category": "Beds",
+            "description": "Ornate designs with vintage charm, perfect for classic or Victorian interiors. Often crafted with intricate scrollwork and floral patterns, they exude elegance and sophistication.",
+            "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/bunk-loft-bed/x/w/v/grey-carbon-steel-hs-bunkbed-001-heaven-shield-152-grey-original-imah2ezk4hjjz8qd.jpeg?q=70"
+        },
+        {
+            "id": 45,
+            "title": "Modern Iron Beds",
+            "price": "31980Rs",
+            "category": "Beds",
+            "description": "Sleek, minimalist styles suitable for contemporary and industrial spaces. Their clean lines and geometric patterns make them versatile for modern interiors.",
+            "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/bed/x/x/4/single-199-na-no-98-wrought-iron-no-26-67-mdodrstblcsglbed-original-imah4eb9gaeympcg.jpeg?q=70"
+        },
+        {
+            "id": 46,
+            "title": "Canopy Iron Beds",
+            "price": "17980Rs",
+            "category": "Beds",
+            "description": "Feature vertical posts with an overhead frame, ideal for luxurious, romantic settings. Often used with drapes or lights to create a cozy and regal ambiance.",
+            "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/bed/r/b/k/queen-198-12-black-no-158-75-cast-iron-no-40-bed-05-siya-art-83-original-imah6yhzwvyu4hey.jpeg?q=70"
+        },
+        {
+            "id": 47,
+            "title": "Platform Iron Beds",
+            "price": "24960Rs",
+            "category": "Beds",
+            "description": "Low-profile frames that eliminate the need for box springs, ideal for modern spaces. These beds offer a simple and functional design for a clean look.",
+            "image": "https://rukminim2.flixcart.com/image/612/612/kvvad8w0/bunk-loft-bed/w/u/z/na-wrought-iron-afw76-ahmadfabricationworks-glossy-1600-2-original-imag8z38unc3rrwg.jpeg?q=70"
+        },
+        {
+            "id": 48,
+            "title": "Daybeds",
+            "price": "29980Rs",
+            "category": "Beds",
+            "description": "Multi-functional beds that double as sofas, great for small spaces or guest rooms. A practical solution that adds charm and utility to versatile areas.",
+            "image": "https://m.media-amazon.com/images/I/71pne6OvMfL._AC_UL480_FMwebp_QL65_.jpg"
+        },
+        {
+            "id": 49,
+            "title": "Sleigh Iron",
+            "price": "18920Rs",
+            "category": "Beds",
+            "description": "Curved headboard and footboard for a traditional and elegant aesthetic. These beds often combine vintage artistry with sturdy craftsmanship.",
+            "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/bed/a/2/0/double-215-9-na-no-161-29-cast-iron-no-35-double-black-101-original-imahyufkwygh3jzv.jpeg?q=70"
+        },
+        {
+            "id": 50,
+            "title": "Antique Iron Beds",
+            "price": "27490Rs",
+            "category": "Beds",
+            "description": "Vintage or distressed designs that add rustic or retro vibes to any room. Their timeless appeal often comes with unique patterns or weathered finishes.",
+            "image": "https://m.media-amazon.com/images/I/71F+daMdORL._AC_UL480_FMwebp_QL65_.jpg"
+        },
+        {
+            "id": 51,
+            "title": "Foldable Iron Beds",
+            "price": "32480Rs",
+            "category": "Beds",
+            "description": "Compact, portable beds ideal for temporary use or small spaces. Designed for convenience, they are lightweight and easy to store.",
+            "image": "https://img.interiorcompany.com/interior/webproduct/612638724460252038330.png?aio=w-384;"
+        },
+        {
+            "id": 52,
+            "title": "Bunk Iron Beds",
+            "price": "22980Rs",
+            "category": "Beds",
+            "description": "Stacked beds designed to save space, perfect for kids' rooms or shared spaces. These durable frames ensure safety with features like guardrails and ladders.",
+            "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/bunk-loft-bed/t/y/2/black-wrought-iron-bb-01-m-s-creation-180-black-original-imah2bzj995fyzzf.jpeg?q=70&crop=false"
+        },
+        {
+            "id": 53,
+            "title": "Traditional Iron Beds",
+            "price": "34790Rs",
+            "category": " Beds",
+            "description": "Ornate designs with vintage charm, perfect for classic or Victorian interiors. Often crafted with intricate scrollwork and floral patterns, they exude elegance and sophistication.",
+            "image": "https://gdimg3.gmarket.co.kr/goods_image2/shop_moreimg/120/594/120594288/120594288_01.jpg?ver=1710774344"
+        },
+        {
+            "id": 54,
+            "title": "Modern Iron Beds",
+            "price": "22490Rs",
+            "category": "Beds",
+            "description": "Sleek, minimalist styles suitable for contemporary and industrial spaces. Their clean lines and geometric patterns make them versatile for modern interiors.",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_pB-08Yx4IWKuw7PPw6dgAFz7Wat_3bclCg&s"
+        },
+        {
+            "id": 55,
+            "title": "Canopy Royal Beds",
+            "price": "28590Rs",
+            "category": "Beds",
+            "description": "Feature tall posts and an overhead frame for drapes, offering a luxurious, regal look. These beds are often used to create an elegant, cozy atmosphere.",
+            "image": "https://s.alicdn.com/@sc04/kf/H52ef108043ad4d65ae871ce3cf0b62bdA.jpg_300x300.jpg"
+        },
+        {
+            "id": 56,
+            "title": "Sleigh Royal Beds",
+            "price": "39980Rs",
+            "category": "Beds",
+            "description": "Curved headboard and footboard with intricate carvings, providing a traditional and royal aesthetic. Sleigh beds combine luxury and timeless design.",
+            "image": "https://img3.exportersindia.com/product_images/bc-full/2022/2/9218409/royal-bed-1644571911-6197829.jpeg"
+        },
+        {
+            "id": 57,
+            "title": "Antique Royal Beds",
+            "price": "4890Rs",
+            "category": "Beds",
+            "description": "Vintage-style beds with ornate carvings, made of rich wood or metal. Antique royal beds add historical grandeur to any room.",
+            "image": "https://www.comfyco.com/pics3/fill/m/mdbeccag-ful.jpg"
+        },
+        {
+            "id": 58,
+            "title": "Upholstered Royal Beds",
+            "price": "4950Rs",
+            "category": "Beds",
+            "description": "Soft, padded headboards with luxurious fabrics like velvet or silk. Upholstered royal beds offer both comfort and opulence, perfect for a refined bedroom.",
+            "image": "https://www.squaro.in/cdn/shop/files/1699115992068.png?v=1709578211&width=1445"
+        },
+        {
+            "id": 59,
+            "title": "Round Royal Beds",
+            "price": "6990Rs",
+            "category": "Beds",
+            "description": "Circular-shaped beds paired with lavish materials and intricate decor. Round royal beds add a bold, unique statement to any luxury bedroom.",
+            "image": "https://indiannest.in/cdn/shop/files/Hfbfe6cfdfc504f189847f630e88adedcu.jpg_960x960_4d3cffd6-3510-4753-9715-1a59820f5588.webp?v=1707153162&width=823"
+        },
+        {
+            "id": 60,
+            "title": "Bunk Iron Beds",
+            "price": "9580Rs",
+            "category": "Beds",
+            "description": "Stacked beds designed to save space, perfect for kids' rooms or shared spaces. These durable frames ensure safety with features like guardrails and ladders.",
+            "image": "https://luxuryfurniturecompany.com/wp-content/uploads/2017/11/le20.jpg"
+        },
+        {
+            "id": 61,
+            "title": "Formal Traditional Dining Set",
+            "price": "50000Rs",
+            "category": "DiningSet",
+            "description": "A formal traditional dining set features ornate detailing and a symmetrical design, often with a large rectangular table and plush upholstered chairs. Ideal for grand dining rooms and special occasions, it creates an elegant, luxurious ambiance.",
+            "image": "https://m.media-amazon.com/images/I/81onhOx-2uL._SY450_.jpg"
+        },
+        {
+            "id": 62,
+            "category": "DiningSet",
+            "price": "45000Rs",
+            "title": "Farmhouse Traditional Dining Set",
+            "description": "The farmhouse traditional dining set emphasizes a rustic and inviting look with sturdy wooden tables and a casual yet traditional design. It’s perfect for cozy, everyday dining, offering warmth and comfort in a homey setting.",
+            "image": "https://m.media-amazon.com/images/I/81RPtomVisL._SY450_.jpg"
+        },
+        {
+            "id": 63,
+            "category": "DiningSet",
+            "price": "60000Rs",
+            "title": "Victorian Traditional Dining Set",
+            "description": "Lavish and opulent, the Victorian traditional dining set features dark woods, velvet upholstery, and highly decorative carvings. It creates a luxurious atmosphere, making it ideal for formal dining and special gatherings.",
+            "image": "https://m.media-amazon.com/images/I/61dqFLN5-kL._SY450_.jpg"
+        },
+        {
+            "id": 64,
+            "category": "DiningSet",
+            "price": "55000Rs",
+            "title": "Colonial Traditional Dining Set",
+            "description": "The colonial traditional dining set combines simple craftsmanship with elegance, featuring sturdy wooden tables and understated chairs. This style offers practicality along with a traditional, refined design.",
+            "image": "https://img.interiorcompany.com/interior/webproduct/605638616550447007228.png?aio=w-384;"
+        },
+        {
+            "id": 65,
+            "category": "DiningSet",
+            "price": "57000Rs",
+            "title": "Mediterranean Traditional Dining Set",
+            "description": "Blending rustic wood with bold, warm tones and iron accents, the Mediterranean traditional dining set creates a welcoming atmosphere. It’s perfect for both formal and informal settings, offering traditional charm.",
+            "image": "https://m.media-amazon.com/images/I/71KbPYRi9bL._SY450_.jpg"
+        },
+        {
+            "id": 66,
+            "category": "DiningSet",
+            "price": "53000Rs",
+            "title": "Shaker Traditional Dining Set",
+            "description": "The Shaker traditional dining set emphasizes clean lines and minimalistic design, with craftsmanship that prioritizes function. Made from high-quality, solid wood, it creates a subtle yet traditional style.",
+            "image": "https://m.media-amazon.com/images/I/713RUlcx90L._SY450_.jpg"
+        },
+        {
+            "id": 67,
+            "category": "DiningSet",
+            "price": "52000Rs",
+            "title": "Arts and Crafts Traditional Dining Set",
+            "description": "Featuring a handmade, crafted appearance, the Arts and Crafts traditional dining set uses rich wood like oak with exposed joinery and earthy tones. Its timeless handcrafted design suits homes with craftsman or rustic appeal.",
+            "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/dining-set/u/3/k/144-78-green-88-9-0-rosewood-sheesham-12-rectangle-40-64-74-4-30-original-imah2rqpz8vufbha.jpeg?q=70"
+        },
+        {
+            "id": 68,
+            "category": "DiningSet",
+            "price": "59000Rs",
+            "title": "French Country Traditional Dining Set",
+            "description": "With its rustic elegance, the French Country traditional dining set features distressed wood, soft colors, and gentle curves, often paired with upholstered chairs. It creates a cozy, provincial atmosphere in any dining space.",
+            "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/dining-set/e/n/q/86-36-grey-0-0-rosewood-sheesham-30-square-45-72-101-6-30-86-36-original-imah4b8khgddhuxr.jpeg?q=70"
+        },
+        {
+            "id": 69,
+            "category": "DiningSet",
+            "price": "62000Rs",
+            "title": " Scandinavian Modern Dining Set",
+            "description": "Characterized by light wood, simple lines, and functionality. Often paired with neutral or muted tones, creating a calm and airy ambiance. This style emphasizes minimalism and comfort with clean, sleek designs.",
+            "image": "https://easycraft.in/cdn/shop/files/Round-Marble-Dining.jpg?v=1733806719&width=600"
+        },
+        {
+            "id": 70,
+            "category": "DiningSet",
+            "price": "65000Rs",
+            "title": "Mid-Century Modern Dining Set",
+            "description": "Features angular lines, wooden legs, and a retro-inspired aesthetic. Known for its combination of organic shapes with functional design. Chairs are often upholstered in fabric or leather, and tables have tapered legs.",
+            "image": "https://media-uk.landmarkshops.in/cdn-cgi/image/h=750,w=750,q=85,fit=cover/homecentre/1000013295219-1000013295219-1012_01-2100.jpg"
+        },
+        {
+            "id": 71,
+            "title": "Industrial Modern Dining Set",
+            "price": "10080Rs",
+            "category": "DiningSet",
+            "description": "Combines raw materials like exposed metal and reclaimed wood for an urban, industrial feel. The design typically highlights unfinished or rustic textures, with bold, statement pieces. Often features large, sturdy tables with metal frames.",
+            "image": "https://luxox.furniture/cdn/shop/files/FullyUpholsteredIndoorFurniture-DiningSet-Wilkes_600x.jpg?v=1688451413"
+        },
+        {
+            "id": 72,
+            "title": "Contemporary Modern Dining Set",
+            "price": "19850Rs",
+            "category": "DiningSet",
+            "description": "Focuses on the latest trends, blending various materials such as glass, metal, and wood. These sets often have bold, artistic elements but maintain sleek, minimalist forms. Chairs are usually ergonomically designed for comfort.",
+            "image": "https://ikiru.in/cdn/shop/files/sDogl6CJAbwNX_kNpITCpLZvKPkS5LZNzlUSWWn-oyQ_700x700.jpg?v=1734686972"
+        },
+        {
+            "id": 73,
+            "title": "Minimalist Modern Dining Set",
+            "price": "7980Rs",
+            "category": "DiningSet",
+            "description": "Designed with the idea of 'less is more,' featuring clean lines, simple shapes, and often a neutral color palette. Typically, it uses materials like glass or metal with a focus on uncluttered, spacious arrangements. Perfect for small or open-plan areas.",
+            "image": "https://images.durian.in/Durian/durian/product/800x800/product_2022100612201665058830_34550.jpg?tr=w-938,pr-true"
+        },
+        {
+            "id": 74,
+            "title": "Glass-Top Modern Dining Set",
+            "price": "14930Rs",
+            "category": "DiningSet",
+            "description": "Features a sleek glass tabletop, often paired with metal or wooden bases. The transparent surface creates an airy, open feeling, making it ideal for smaller spaces. The glass design is complemented by contemporary-style chairs for an elegant look.",
+            "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS5RwAErVSMfBhNljayahvTNCcuA23HuHITObRIGSK_eh394tiTyeUalIgLq5o8ECOb-DSjg2iaROvh9dbLPbXNH9c9ugddHSty1aqBaFzM&usqp=CAE"
+        },
+        {
+            "id": 75,
+            "title": "Luxury Modern Dining Set",
+            "price": "24930Rs",
+            "category": "DiningSet",
+            "description": "Combines high-end materials like marble, gold, or polished metal with contemporary designs. These sets often include statement pieces like oversized chairs or elegant, sculptural tables. Perfect for those looking for a sophisticated, upscale look.",
+            "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTyDsJtmkm9FreXs9qy6lnlLKr04pb5Dq7k53obythXT362eF7Mlwyuc3VHVK11Dz7zfvNCi1H6lHdmGHqMBvS7E3lv4_d3uxxficlm4WflrrKUBj3KzJg0&usqp=CAE"
+        },
+        {
+            "id": 76,
+            "title": "Scandinavian Minimalist Modern Dining Set",
+            "price": "18900Rs",
+            "category": "DiningSet",
+            "description": "A fusion of Scandinavian simplicity and minimalist design, featuring light wood, clean lines, and neutral color schemes. The furniture is functional, elegant, and typically creates a cozy, uncluttered atmosphere. Ideal for smaller or open spaces.",
+            "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRfR-HHqNeaEeQ4Fo9MNnmvNGk22lBq4BokyI8yVAZ7kCJhY8nk7FYYCxFokG7ZVKC1yc6ROFqSwTRS2ZDIBxqNwdqZ2vBjb2b_4aY50IE&usqp=CAE"
+        },
+        {
+            "id": 77,
+            "title": "Straight Kitchen",
+            "price": "11980Rs",
+            "category": "Kitchen",
+           
+            "description": "A straight kitchen design offers a single line of counters, ideal for compact spaces. It maximizes space efficiently while providing ease of movement. Great for small to medium spaces.",
+            "image": "https://img.interiorcompany.com/interior/webproduct/568638693852739420611.png?aio=w-384;"
+        },
+        {
+            "id": 78,
+            "title": "L-Shaped Kitchen",
+            "price": "6530Rs",
+            "category": "Kitchen",
+           
+            "description": "An L-shaped kitchen uses two walls to create a corner, offering plenty of counter and storage space. It’s ideal for medium-sized kitchens, allowing for smooth workflow.",
+            "image": "https://img.interiorcompany.com/interior/webproduct/736638693877224053628.png?aio=w-384;"
+        },
+        {
+            "id": 79,
+            "title": "U-Shaped Kitchen",
+            "price": "7510Rs",
+            "category": "Kitchen",
+            
+            "description": "This design incorporates three walls, providing expansive counter space and ample storage. Perfect for larger kitchens where functionality and style are essential.",
+            "image": "https://img.interiorcompany.com/interior/webproduct/750638695175218567726.png?aio=w-384;"
+        },
+        {
+            "id": 80,
+            "title": "Island Kitchen",
+            "price": "12480Rs",
+            "category": "Kitchen",
+           
+            "description": "The island kitchen features a central island that can serve as extra counter space or a cooking area. Perfect for open-plan spaces and a stylish centerpiece.",
+            "image": "https://image.made-in-china.com/318f0j00HtMROUeCniby/Custom-Modular-Kitchen-Furniture-Cabinet-Modern-White-Melamine-Affordable-Large-Space-Storage-Kitche-mp4.webp"
+        },
+        {
+            "id": 81,
+            "title": "Parallel Kitchen",
+            "price": "8990Rs",
+            "category": "Kitchen",
+            
+            "description": "With two parallel counters, this kitchen design provides efficient use of space and a smooth workflow. Ideal for narrow, long spaces and minimalistic setups.",
+            "image": "https://img.interiorcompany.com/interior/webproduct/431638693842189921224.png?aio=w-384;"
+        },
+        {
+            "id": 82,
+            "title": "Peninsula Kitchen",
+            "price": "6320Rs",
+            "category": "Kitchen",
+          
+            "description": "A peninsula kitchen is like an island but attached to a wall, offering extra counter space and storage. Great for smaller spaces where a full island isn’t possible.",
+            "image": "https://img.interiorcompany.com/interior/webproduct/619638693836504816053.png?aio=w-384;"
+        },
+        {
+            "id": 83,
+            "title": "G-Shaped Kitchen",
+            "price": "11940Rs",
+            "category": "Kitchen",
+            
+            "description": "A G-shaped kitchen offers extended counter space and storage by enclosing three sides of the kitchen and adding a partial fourth wall. Perfect for large families.",
+            "image": "https://img.interiorcompany.com/interior/webproduct/670638215285819857001.jpg?aio=w-384;"
+        },
+        {
+            "id": 84,
+            "title": "Open Kitchen",
+            "price": "8430Rs",
+            "category": "Kitchen",
+           
+            "description": "Open kitchens blend seamlessly into the living or dining area, creating a spacious and modern feel. They are ideal for hosting and multi-functional use.",
+            "image": "https://img.interiorcompany.com/interior/webproduct/472638221285176305158.jpg?aio=w-384;"
+        },
+        {
+            "id": 85,
+            "title": "Galley Kitchen",
+            "price": "7580Rs",
+            "category": "Kitchen",
+            
+            "description": "A galley kitchen features two parallel counters for efficient work areas and storage. Ideal for small spaces, providing great functionality and ease of access.",
+            "image": "https://img.interiorcompany.com/interior/webproduct/636637878000263118850.jpg?aio=w-384;"
+        },
+        {
+            "id": 86,
+            "title": "Compact Modular Kitchen",
+            "price": "6050Rs",
+            "category": "Kitchen",
+       
+            "description": "A compact modular kitchen is tailored for small apartments, offering essential storage and counter space without compromising on aesthetics or functionality.",
+            "image": "https://img.interiorcompany.com/interior/webproduct/859638688456085480032.png?aio=w-384;"
+        },
+        {
+            "id": 87,
+            "title": "Studio Kitchen",
+            "price": "7180Rs",
+            "category": "Kitchen",
+           
+            "description": "Studio kitchens are designed for studio apartments, combining minimalist design with maximum efficiency. They blend into the overall decor seamlessly.",
+            "image": "https://img.interiorcompany.com/interior/webproduct/531638216558940249474.jpg?aio=w-384;"
+        },
+        {
+            "id": 88,
+            "title": "Traditional Modular Kitchen",
+            "price": "12560Rs",
+            "category": "Kitchen",    
+            "description": "Traditional modular kitchens feature classic designs and natural materials, offering a timeless and warm aesthetic. Ideal for larger homes with a traditional vibe.",
+            "image": "https://img.interiorcompany.com/interior/webproduct/779638688424238867556.png?aio=w-384;"
+        },
+        {
+            "id": 89,
+            "title": "Wall-Mounted TV Unit",
+            "price": "15840Rs",
+            "category": "TvUnits",
+          
+            "description": "A sleek, space-saving option that mounts directly on the wall. Ideal for minimalistic interiors, it keeps the floor area clutter-free. Often includes shelves or cabinets for storage.",
+            "image": "https://img.interiorcompany.com/interior/webproduct/472638609666344822198.png?aio=w-384;"
+        },
+        {
+            "id": 90,
+            "title": "Entertainment Center",
+            "price": "15840Rs",
+            "category": "TvUnits",
+         
+            "description": "A large, comprehensive unit with ample storage for books, décor, and electronics. Often extends across the wall and creates a focal point in living rooms. Best for spacious areas with a need for organization.",
+            "image": "https://img.interiorcompany.com/interior/webproduct/367638609671633813355.png?aio=w-384;"
+        },
+        {
+            "id": 91,
+            "title": "Corner TV Unit",
+            "price": "15840Rs",
+            "category": "TvUnits",
+
+            "description": "Designed to fit into room corners, maximizing space utility. Compact and practical, it suits smaller rooms or unconventional layouts. Can include shelves or drawers for added functionality.",
+            "image": "https://img.interiorcompany.com/interior/webproduct/231638609645011208863.png?aio=w-384;"
+        },
+        {
+            "id": 92,
+            "title": "Floating TV Unit",
+            "price": "15840Rs",
+            "category": "TvUnits",
+           
+            "description": "Suspended from the wall with no contact with the floor, offering a modern look. Creates an illusion of spaciousness and is easy to clean underneath. Pairs well with contemporary or minimalist styles.",
+            "image": "https://img.interiorcompany.com/interior/webproduct/647638608858913372867.png?aio=w-384;"
+        },
+        {
+            "id": 93,
+            "title": "Open-Shelf TV Unit",
+            "price": "15840Rs",
+            "category": "TvUnits",
+           
+            "description": "Features open shelves for a casual, airy design. Great for showcasing decorative items, books, or media players. Offers easy access but requires organized styling to avoid clutter.",
+            "image": "https://img.interiorcompany.com/interior/webproduct/683638580459208472838.png?aio=w-384;"
+        },
+        {
+            "id": 94,
+            "title": "Cabinet-Style TV Unit",
+            "price": "15840Rs",
+            "category": "TvUnits",
+           
+            "description": "Combines closed cabinets with an integrated TV mount. Excellent for hiding away cables, remotes, and other accessories. Suits traditional or modern décor depending on the finish.",
+            "image": "https://img.interiorcompany.com/interior/webproduct/211638580429192336557.png?aio=w-384;"
+        },
+        {
+            "id": 95,
+            "title": "Panel TV Unit",
+            "price": "15840Rs",
+            "category": "TvUnits",
+           
+            "description": "A decorative wall panel that acts as a backdrop for the TV. Often extends vertically or horizontally for added visual impact. Can include integrated lighting or hidden storage.",
+            "image": "https://img.interiorcompany.com/interior/webproduct/504638580266511056142.png?aio=w-384;"
+        },
+        {
+            "id": 96,
+            "title": "Industrial TV Unit",
+            "price": "15840Rs",
+            "category": "TvUnits",
+            
+            "description": "Constructed with materials like metal and wood for a rugged, raw aesthetic. Complements loft or industrial-style interiors. Usually includes open shelving or a minimalist design.",
+            "image": "https://img.interiorcompany.com/interior/webproduct/612638572662431045854.png?aio=w-384;"
+        },
+        {
+            "id": 97,
+            "title": "Low-Height TV Unit",
+            "price": "15840Rs",
+            "category": "TvUnits",
+          
+            "description": "A compact unit that keeps the TV at eye level when seated. Ideal for modern and low-profile furniture arrangements. Often includes a few drawers or open shelves for convenience.",
+            "image": "https://img.interiorcompany.com/interior/webproduct/219638530077880989883.png?aio=w-384;"
+        },
+        {
+            "id": 98,
+            "title": "Modular TV Unit",
+            "price": "15840Rs",
+            "category": "TvUnits",
+           
+            "description": "Customizable units with adjustable shelves and compartments. Perfect for adapting to different spaces and needs. Offers flexibility in storage and design elements.",
+            "image": "https://img.interiorcompany.com/interior/webproduct/908638216446742854779.jpg?aio=w-384;"
+        },
+        {
+            "id": 99,
+            "title": "Built-In TV Unit",
+            "price": "15840Rs",
+            "category": "TvUnits",
+      
+            "description": "Integrated into the wall for a seamless look. Perfect for saving space and achieving a high-end, tailored appearance. Typically designed with custom cabinetry or shelving.",
+            "image": "https://img.interiorcompany.com/interior/webproduct/586638580424080033087.png?aio=w-384;"
+        },
+        {
+            "id": 100,
+            "title": "Rustic TV Unit",
+            "price": "15840Rs",
+            "category": "TvUnits",
+           
+            "description": "Crafted with raw or reclaimed wood for a warm, natural look. Adds charm and character to living spaces. Works well with farmhouse or traditional themes.",
+            "image": "https://img.interiorcompany.com/interior/webproduct/530638218150006067872.jpg?aio=w-384;"
+        }
+
+    ]
+}
